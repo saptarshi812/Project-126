@@ -11,12 +11,12 @@ body{
     background-size:cover;
 }
 
-.play_button{
-    width:200px;
-    font-size:25px;
-
-}
 #song_name{
-    color:coral;
+    color:White;
     
+}
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
 }
